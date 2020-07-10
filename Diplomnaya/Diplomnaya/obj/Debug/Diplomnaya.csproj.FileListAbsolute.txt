@@ -1,0 +1,16 @@
+C:\Users\efjgf\source\repos\Diplomnaya\Diplomnaya\bin\Debug\Diplomnaya.exe.config
+C:\Users\efjgf\source\repos\Diplomnaya\Diplomnaya\bin\Debug\Diplomnaya.exe
+C:\Users\efjgf\source\repos\Diplomnaya\Diplomnaya\bin\Debug\Diplomnaya.pdb
+C:\Users\efjgf\source\repos\Diplomnaya\Diplomnaya\obj\Debug\Diplomnaya.csprojAssemblyReference.cache
+C:\Users\efjgf\source\repos\Diplomnaya\Diplomnaya\obj\Debug\Diplomnaya.Authorization.resources
+C:\Users\efjgf\source\repos\Diplomnaya\Diplomnaya\obj\Debug\Diplomnaya.MainWindow.resources
+C:\Users\efjgf\source\repos\Diplomnaya\Diplomnaya\obj\Debug\Diplomnaya.Properties.Resources.resources
+C:\Users\efjgf\source\repos\Diplomnaya\Diplomnaya\obj\Debug\Diplomnaya.csproj.GenerateResource.cache
+C:\Users\efjgf\source\repos\Diplomnaya\Diplomnaya\obj\Debug\Diplomnaya.csproj.CoreCompileInputs.cache
+C:\Users\efjgf\source\repos\Diplomnaya\Diplomnaya\obj\Debug\Diplomnaya.exe
+C:\Users\efjgf\source\repos\Diplomnaya\Diplomnaya\obj\Debug\Diplomnaya.pdb
+C:\Users\efjgf\source\repos\Diplomnaya\Diplomnaya\obj\Debug\Diplomnaya.createApp.resources
+C:\Users\efjgf\source\repos\Diplomnaya\Diplomnaya\obj\Debug\Diplomnaya.Forms.NewUser.resources
+C:\Users\efjgf\source\repos\Diplomnaya\Diplomnaya\obj\Debug\Diplomnaya.Forms.NewProduct.resources
+C:\Users\efjgf\source\repos\Diplomnaya\Diplomnaya\obj\Debug\Diplomnaya.Forms.EditProduct.resources
+C:\Users\efjgf\source\repos\Diplomnaya\Diplomnaya\obj\Debug\Diplomnaya.Forms.ProdList.resources
